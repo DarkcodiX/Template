@@ -2,7 +2,7 @@
 
 ## Overview
 
-Welcome to the Templates repository of **Th3-C0der**. This repository contains template or basic versions of my projects and applications. These templates are designed to provide a solid foundation for various types of software projects, making it easier to get started with development.
+Welcome to the Templates repository of **Darkcodix**. This repository contains template or basic versions of my projects and applications. These templates are designed to provide a solid foundation for various types of software projects, making it easier to get started with development.
 
 ## Contents
 
